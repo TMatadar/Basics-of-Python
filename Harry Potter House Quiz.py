@@ -68,8 +68,8 @@ def main():
             else:
                 incorrect_Letter = incorrect_Letter + 1
             
-            if name == "SHIMA" or name == "SHIMALAM":
-                print("\nThe sorting hat does not place muggles, sorry Shima :).")
+            if name == "FATIMAH MATADAR" or name == "FATIMAH":
+                print("\nThe sorting hat does not place muggles, sorry Fatimah :).")
             elif gryffindor > ravenclaw and gryffindor > hufflepuff and gryffindor > slytherin and gryffindor > incorrect_Letter:
                 print("\nThe sorting hat has recieved your answers. \nIt is making it's decision. \n\nYou will be in house...     GRYFFINDOR!!!!!!")
             elif ravenclaw > gryffindor and ravenclaw > hufflepuff and ravenclaw > slytherin and ravenclaw > incorrect_Letter:
